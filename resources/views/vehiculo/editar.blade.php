@@ -29,7 +29,6 @@
 					<input  class="col-sm-10 btn btn-info" type="submit" value="Editar" id="editar">
 
 				</form>
-
 		</div>
 	</div>
 </div>
