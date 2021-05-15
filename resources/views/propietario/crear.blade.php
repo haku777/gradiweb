@@ -22,8 +22,6 @@
 				
 				<label  class="col-sm-1 col-form-label" for="telefono">Telefono <input class="mb-3" type="text" id="telefono" name="telefono" required></label><br>
 
-
-
 				<input class="col-sm-10 btn btn-success" type="submit" value="Agregar" id="agregar">
 
 			</form>

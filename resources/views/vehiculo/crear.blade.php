@@ -22,10 +22,7 @@
 				
 				<label  class="col-sm-1 col-form-label" for="tipo">tipo <input class="mb-3" type="text" id="tipo" name="tipo" required></label><br>
 
-
 				<label  class="col-sm-1 col-form-label" for="id_propietario"><input class="mb-3" type="text" id="id_propietario" name="id_propietario" hidden value="2" required></label><br>
-
-
 
 				<input class="col-sm-10 btn btn-success" type="submit" value="Agregar" id="agregar">
 

@@ -50,8 +50,6 @@
   					</form>
   					</div>
 
-
-
  				</td>
  			</tr>
  		@endforeach
@@ -59,7 +57,6 @@
 	 </tbody>
 	</table>
 </main>
-
 
 @endsection
 
